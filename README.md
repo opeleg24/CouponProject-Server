@@ -1,7 +1,14 @@
 # CouponProject-Server
 
-Coupon system project is web application that simulates a company's operating coupons management enterprise.
-The system has a administrator functions, company operations and lastly the customer options.
+Coupon project is web application that simulates a company's operating coupons management enterprise.
+The system:
+
+• Administrator Functions - modify companies and customers status, modify coupons (add and delete coupons and modify their status)
+
+• Company Operations - shows company's coupons and modify coupons status
+
+• Customer Options - purchase available coupons and customers current coupons   
+
 
 # Built With
 
@@ -10,6 +17,7 @@ The system has a administrator functions, company operations and lastly the cust
 • MySQL - The database management system used to store The NBA teams and players data
 
 • Jersey API - The web server framework used to built the API request sysytem
+
 
 # Acknowledgements
 

@@ -1,6 +1,7 @@
 # CouponProject-Server
 
 Coupon project is web application that simulates a company's operating coupons management enterprise.
+
 The system:
 
 • Administrator Functions - modify companies and customers status, modify coupons (add and delete coupons and modify their status)
